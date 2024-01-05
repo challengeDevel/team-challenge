@@ -23,6 +23,7 @@
     "@goorm-dev/gds-icons": "file:config/packages/goorm-dev-gds-icons-1.14.0.tgz",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/webpack": "^5.5.0",
+    "axios": "^1.6.4",
     "babel-jest": "^27.4.2",
     "babel-loader": "^8.2.3",
     "babel-plugin-named-asset-import": "^0.3.8",
